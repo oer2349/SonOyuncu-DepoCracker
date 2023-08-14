@@ -1,2 +1,2 @@
 # SonOyuncu-DepoCracker
-SonOyuncu Titanyum Depo Şifre Cracker (Mause Event)
+SonOyuncu Titanyum Depo Şifre Cracker (Mouse Event)
